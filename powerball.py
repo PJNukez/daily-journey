@@ -90,3 +90,4 @@ for i in range(numPlays):
 
 print(f"You have wasted {price}.\nThanks for playing!")
 print("test github")
+print("confirm updating powerball")
