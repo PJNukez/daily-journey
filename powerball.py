@@ -89,3 +89,4 @@ for i in range(numPlays):
         print(" (You lose!)")
 
 print(f"You have wasted {price}.\nThanks for playing!")
+print("test_newbranch")
